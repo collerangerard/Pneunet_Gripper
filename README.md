@@ -1,2 +1,10 @@
 # Pneunet-Gripper
-Scripts used to control inflation Arduino and Braccio Arduino in a pick and place operation
+
+For the project:
+DESIGN AND PROTOTYPING OF A SOFT ROBOTIC GRIPPER
+
+Scripts include:
+- Computational framework
+- Inflation control
+- Braccio inflation control
+- Braccio control
